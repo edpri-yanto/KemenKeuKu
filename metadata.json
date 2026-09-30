@@ -1,0 +1,6 @@
+{
+  "name": "KemenKeuKu",
+  "description": "Aplikasi pencatatan pengeluaran harian pribadi, bisnis, kantor, dan toko dengan sinkronisasi cloud, ekspor PDF/Excel otomatis, dan pengingat transaksi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
